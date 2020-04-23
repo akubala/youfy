@@ -1,0 +1,9 @@
+# Python
+venv
+__pycache__
+
+# PyCharm
+.idea
+
+# Spotify
+.cache-*

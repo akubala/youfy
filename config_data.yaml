@@ -1,0 +1,10 @@
+username:
+scope: playlist-modify-public
+client_id:
+client_secret:
+redirect_uri:
+trace: False
+market: PL
+playlist_name:
+playlist_description:
+youtube_playlist_id:
