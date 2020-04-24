@@ -1,7 +1,7 @@
 # Youfy
 
 Youfy is a simple Python project that will gather your YouTube playlist content and in a dummy way will try to convert it to Spotify playlist.
-This script is based on [youtube-dl](https://github.com/ytdl-org/youtube-dl/) and [Spotipy](https://github.com/plamere/spotipy).
+This script is based on [youtube-dl](https://github.com/ytdl-org/youtube-dl/) and [Spotipy](https://github.com/plamere/spotipy). Big thanks to [Michał](https://github.com/Ernold11) for his contribution!
 
 ## Prequietes
 * Spotify account and API credentials
@@ -46,5 +46,4 @@ complete the authorization.
 ```
 
 ## Note
-
-Big thanks to [Michał](https://github.com/Ernold11) for his contribution!
+Feel free to contribute!
