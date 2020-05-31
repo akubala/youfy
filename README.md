@@ -46,4 +46,4 @@ complete the authorization.
 ```
 
 ## Note
-Feel free to contribute!
+This project is no longer maintained.
